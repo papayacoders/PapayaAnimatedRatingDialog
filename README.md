@@ -2,6 +2,11 @@
 PapayaAnimatedRatingDialog
 
 
+## Screenshots
+[](https://raw.githubusercontent.com/papayacoders/PapayaAnimatedRatingDialog/master/Screenshot_20220806_091604.png)
+
+
+
 Add in Build Gradle 
 
 	allprojects {
