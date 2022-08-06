@@ -3,8 +3,11 @@ PapayaAnimatedRatingDialog
 
 
 ## Screenshots
-[](https://raw.githubusercontent.com/papayacoders/PapayaAnimatedRatingDialog/master/Screenshot_20220806_091604.png)
+![](https://raw.githubusercontent.com/papayacoders/PapayaAnimatedRatingDialog/master/Screenshot_20220806_091604.png?raw=true)
 
+![](https://raw.githubusercontent.com/papayacoders/PapayaAnimatedRatingDialog/master/Screenshot_20220806_091622.png?raw=true)
+
+![](https://raw.githubusercontent.com/papayacoders/PapayaAnimatedRatingDialog/master/Screenshot_20220806_091632.png?raw=true)
 
 
 Add in Build Gradle 
